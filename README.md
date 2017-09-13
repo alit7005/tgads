@@ -8,7 +8,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://raw.githubusercontent.com/alit7005/tgAds/master/LICENSE)
 
-[![http://t.me/alit7005](https://img.shields.io/badge/Telegram-sajjad__021-blue.svg)](http://t.me/alit7005)
+[![http://t.me/alit7005](https://img.shields.io/badge/Telegram-alit7005-blue.svg)](http://t.me/alit7005)
 
 ***
 
